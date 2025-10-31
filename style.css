@@ -1,0 +1,21 @@
+/* Questo è un commento CSS */
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 20px;
+}
+
+h1 {
+    color: #0056b3; /* Un bel blu */
+}
+
+.container {
+    max-width: 800px;
+    margin: auto; /* Centra il contenuto */
+    padding: 20px;
+    background-color: #ffffff; /* Sfondo bianco per il contenuto */
+    border-radius: 8px; /* Angoli arrotondati */
+}
